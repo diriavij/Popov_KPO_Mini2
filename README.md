@@ -6,7 +6,7 @@
 
 - [Реализованный функционал](#реализованный-функционал)
 - [Структура проекта](#структура-проекта)
-- [Domain‑Driven Design](#domain-driven-design)
+- [Domain‑Driven Design](#domaindriven-design)
 - [Clean Architecture](#clean-architecture)
 - [Тестирование](#тестирование)
 
